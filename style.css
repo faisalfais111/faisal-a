@@ -16,5 +16,5 @@ box-show: 0 4px 8px gba (0,0,0,0,1); /* Efek bayngan */
 
 .kartu-profil img{
     width:150px
-    border-radius: 50%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna
+    border-radius: 50%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
